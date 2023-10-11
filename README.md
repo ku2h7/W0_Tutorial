@@ -5,22 +5,36 @@
 ### 1.1 From Github Website
 
   a. From Github Dashboard, click New Repository button.
+
+  ---
   ![Click New Repository](/assets/repository-dashboard.png)
+  
+  ---
 
   b. Enter the repository name, repository description, repository status ( public / private ) and add readme.md automatically by checking (if needed)
+
+  ---
   ![Fill New Repository Form](/assets/repository-detail.png)
 
+  ---
   c. Your Repository is ready !!
+
+  ---
   ![Repository is Ready](/assets/repository-ready.png)
 
----
+  ---
 
 ## 2. Clone Repository to Local
 
   a. Open your repository on **Github**.
+
+  ---
   ![Repository Url](/assets/repository-url.png)
 
+  ---
+
   b. Copy the Repository URL.
+
   c. Run ``git clone`` on your **Terminal**.
 
   ```
@@ -36,9 +50,12 @@
 ## 3. Push Directory or File into Github
 
   a. Create a file, ex. readme.md.
+
+  ---
   ![Create New File on Local](/assets//repository-newfile.png)
 
----
+  ---
+
   b. Add file with command line.
 
   ```
@@ -97,7 +114,10 @@
 
   #### Result
 
+  ---
   ![Branch List](/assets/branchlist.png)
+
+  ---
 
 ### 4.3 Move to Another Branch
 
