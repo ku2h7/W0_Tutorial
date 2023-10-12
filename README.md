@@ -39,9 +39,9 @@ mkdir my_assignment
 ```
 
 
-b. Create a file, like readme.md.
+c. Create a file, like readme.md.
 
-c. Initialize New Repository in an exiting folder.
+d. Initialize New Repository in an exiting folder.
 
 - For the first, initialize your exiting folder, with this command line:
 
