@@ -2,7 +2,7 @@
 
 ## 1. Create Repository
 
-- From Github Dashboard, click New Repository button.
+a. From Github Dashboard, click New Repository button.
 
 ---
 ![Click New Repository](/assets/repository-dashboard.png)
